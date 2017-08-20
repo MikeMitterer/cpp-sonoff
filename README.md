@@ -3,7 +3,7 @@
 Small sample that shows how to setup and program a basic Sonoff-Device
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/MikeMitterer/sonoff/master/doc/images/sonoff.jpg" alt="Sonoff" />
+    <img src="https://raw.githubusercontent.com/MikeMitterer/cpp-sonoff/master/doc/images/sonoff.jpg" alt="Sonoff" />
 </p>
 
 You can go into programming-mode by:
